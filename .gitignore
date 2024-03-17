@@ -1,0 +1,11 @@
+*.xlsx
+
+*.csv
+
+pyenv
+
+html
+
+result
+
+*.zip
